@@ -1,0 +1,45 @@
+
+
+
+h1{
+    color: #0111ee;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+
+    a:link {
+                color: rgb(255, 0, 0);
+  }
+  
+        a:visited {
+                color: rgb(255, 0, 0);
+  }
+                a:hover {
+                    color: unset;
+                    transition: 500ms ease;
+                }
+  
+
+  body{
+    background-image: url(../Bilder/animated-gifs-1.jpg);
+    background-size: cover;
+
+
+  }
+
+
+p{
+    color: rgb(111, 35, 173);
+    font-size: 50px;
+    font-family: fantasy;
+    
+
+}
+
+
+
+
+
+
