@@ -1,5 +1,28 @@
 body {
-    background-image: url("");
+    background-image: url(../Bilder/3509895.jpg);
     background-size: cover;         
     background-repeat: no-repeat;
     }
+
+    button {
+        border:1px solid #000000;
+        background-color: hsl(288, 100%, 50%);
+        }
+
+        button {
+        border-radius: 27px
+        }
+
+        button {
+            height: 80px;
+            width: 260px;
+        }
+
+       button {
+            font-size: 50px;
+          }
+
+          body {
+            color: rgb(225, 0, 255);
+          }
+          
